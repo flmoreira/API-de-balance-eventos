@@ -1,0 +1,15 @@
+{
+  "name": "api-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Francisco Moreira",
+  "license": "ISC",
+  "description": "API consiste em dois endpoints, GET /balance e POST /event",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
